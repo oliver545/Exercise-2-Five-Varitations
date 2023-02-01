@@ -1,6 +1,6 @@
 .one {
     position: relative;
-    animation: mymove 1s infinite;
+    animation: mymove 5s infinite;
   }
   
   @keyframes mymove {
@@ -9,7 +9,7 @@
   }
   .two {
     position: relative;
-    animation: mymove 2s infinite;
+    animation: mymove 7s infinite;
   }
   
   @keyframes mymove {
@@ -18,7 +18,7 @@
   }
   .three {
     position: relative;
-    animation: mymove 3s infinite;
+    animation: mymove 8s infinite;
   }
   
   @keyframes mymove {
@@ -27,7 +27,7 @@
   }
   .four {
     position: relative;
-    animation: mymove 4s infinite;
+    animation: mymove 9s infinite;
   }
   
   @keyframes mymove {
@@ -36,7 +36,7 @@
   }
   .five {
     position: relative;
-    animation: mymove 5s infinite;
+    animation: mymove 10s infinite;
   }
   
   @keyframes mymove {
@@ -45,7 +45,7 @@
   }
   .six {
     position: relative;
-    animation: mymove 6s infinite;
+    animation: mymove 11s infinite;
   }
   
   @keyframes mymove {
@@ -54,7 +54,7 @@
   }
   .seven {
     position: relative;
-    animation: mymove 7s infinite;
+    animation: mymove 12s infinite;
   }
   
   @keyframes mymove {
@@ -63,7 +63,7 @@
   }
   .eight {
     position: relative;
-    animation: mymove 8s infinite;
+    animation: mymove 13s infinite;
   }
   
   @keyframes mymove {
